@@ -1,0 +1,7 @@
+{
+    "name": "聊天气泡回忆 (Chat Bubble Memories)",
+    "author": "Your Name",
+    "description": "在角色消息之间添加一个互动气泡，悬停时会随机显示角色说过的话。",
+    "version": "1.0.0",
+    "tags": ["chat", "ui", "immersion"]
+}
